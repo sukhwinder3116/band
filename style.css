@@ -1,0 +1,100 @@
+.my-nav-link , .my-dropdown-toggle {
+  color: white;
+  padding: 8px 16px !important;
+  text-transform: uppercase;
+}
+.my-nav-link:hover, .my-dropdown-toggle:hover{
+    background-color: grey;
+    color: black;
+}
+.p-1{
+  text-align: center;
+}
+@media screen and (max-width:767px) {
+    .img-1{
+      margin-left: 75px;
+    }
+
+}
+@media screen and (min-width:990px) and  (max-width:1200px) {
+  .img-1{
+    overflow: hidden;
+    padding: 0 !important;
+    margin-right: 40px !important;
+    margin-left: 0% !important;
+  }
+
+}
+@media screen and (min-width:765px) and  (max-width:990px) {
+
+.img-2{
+  margin-left: 175px;
+}
+
+}
+.para-1{
+  margin: 0;
+  text-align: left;
+  background-color: white;
+  padding: 10px 20px;
+  border-bottom: 2px solid gray;
+  font-weight: 500;
+  color: gray;
+}
+.para-1 span{
+  color: #fff;
+  background-color: red;
+  padding: 4px 8px;
+  margin-left: 10px;
+
+}
+.span-1{
+  float: right;
+  background-color: black !important;
+  color: white !important;
+  padding: 1px 8px !important;
+  border-radius: 13px;
+}
+.n{
+  padding: 0 !important;
+}
+.n img{
+  width: inherit;
+}
+.n img:hover{
+  opacity: 0.8;
+}
+.button-1{
+    padding: 6px 13px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.button-1:hover{
+  background-color: rgb(144, 139, 139);
+  color: white;
+}
+.h-1{
+  font-size: 40px;
+    font-weight: 400;
+}
+.sp-1{
+  font-size: 30px;
+  margin-right: 25px;
+}
+.sp-2{
+  font-size: 20px;
+  font-weight: 500;
+
+}
+.img-3{
+  width: 11px;
+    margin-bottom: 4px;
+    margin-right: 20px;
+}
+.input-1{
+  width: 100%;
+  padding: 10px;
+}
